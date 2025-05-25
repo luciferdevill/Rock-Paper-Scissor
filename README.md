@@ -13,4 +13,4 @@ Feel free to explore the code and make your own changes or improvements.
 2. Clone this repository or download the files.
 3. Open the terminal or command prompt.
 4. Navigate to the project folder.
-5. Run the game using
+5. Run the game.
